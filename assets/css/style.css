@@ -1,0 +1,48 @@
+html, body {
+  background-color: #EAEBED;
+  height: 100%;
+}
+
+.img-header {
+  margin-top: 3.5rem;
+}
+
+.garis {
+  background-color: #273c75;
+  position: absolute;
+  width: 60px;
+  height: 5px;
+  border-radius: 10px;
+}
+.garis-putih {
+  background-color: #ffffff;
+  position: absolute;
+  width: 60px;
+  height: 5px;
+  border-radius: 10px;
+}
+
+.mt-bawah-garis {
+  margin-top: 2rem;
+}
+
+.btn-purple {
+  background-color: #273c75;
+  color: #ffffff;
+}
+
+.bg-purple {
+  background-color: #273c75;
+  color: #ffffff;
+}
+
+h5#text-temp {
+  font-size: 35px;
+}
+span.satuan {
+  font-size: 40px;
+}
+
+#footer {
+  flex-shrink: none;
+}
